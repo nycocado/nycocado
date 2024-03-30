@@ -1,7 +1,7 @@
 # Olá 👋 Sou o Nycolas Souza
 ### Atualmente sou estudante de Engenharia Informática na Universidade Europeia/IADE.
 
-<div style="display: flex; justify-content: center; gap: 5px;">
+<div style="display: inline_block">
   <a href="https://github.com/nycocado" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
