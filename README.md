@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/nycocado" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div><br/>
+</div>
 
 ## Linguagens que Utilizo
 
