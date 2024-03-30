@@ -13,7 +13,7 @@
   <a href="https://www.instagram.com/nycocado">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div>
+</div><br/>
 
 [![wakatime](https://wakatime.com/badge/user/018e7551-0d57-4861-a8db-6ad960e1ade1.svg)](https://wakatime.com/@018e7551-0d57-4861-a8db-6ad960e1ade1)
 
