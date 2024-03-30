@@ -15,6 +15,8 @@
   </a>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/018e7551-0d57-4861-a8db-6ad960e1ade1.svg)](https://wakatime.com/@018e7551-0d57-4861-a8db-6ad960e1ade1)
+
 ## Linguagens que utilizo
 
 <div style="display: inline_block">
