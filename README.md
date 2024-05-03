@@ -2,21 +2,21 @@
 <h3 align = "center"> Currently, I'm a student of Computer Engineering at Universidade Europeia/IADE.</h3>
 
 <div align = "center" style="display: inline_block">
-  <a href="https://github.com/nycocado">
+  <a href="https://github.com/nycocado" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
   
-  <a href="https://www.linkedin.com/in/nycocado">
+  <a href="https://www.linkedin.com/in/nycocado" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://www.instagram.com/nycocado">
+  <a href="https://www.instagram.com/nycocado" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div></br>
 
 <div align = "center"> 
-  <a href="https://wakatime.com/@018e7551-0d57-4861-a8db-6ad960e1ade1">
+  <a href="https://wakatime.com/@018e7551-0d57-4861-a8db-6ad960e1ade1" target="_blank">
     <img src="https://wakatime.com/badge/user/018e7551-0d57-4861-a8db-6ad960e1ade1.svg" alt="Total time coded since Mar 25 2024" />
   </a>
 </div>
