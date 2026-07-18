@@ -1,7 +1,7 @@
 <div align="center">
 
-<img alt="nycocado" src="media/banner-light-v2.png#gh-light-mode-only" width="100%">
-<img alt="nycocado" src="media/banner-dark-v2.png#gh-dark-mode-only" width="100%">
+![nycocado](media/banner-light-v2.png#gh-light-mode-only)
+![nycocado](media/banner-dark-v2.png#gh-dark-mode-only)
 
 Backend Software Engineer, recently graduated in Computer Engineering from IADE (Universidade Europeia), top of my class.
 Focused on Java, Spring Boot, and distributed systems. Currently looking for my first junior opportunity.
